@@ -1,12 +1,33 @@
-# React + Vite
+# ⚡ Power Drinks Website
+A modern, responsive, and animation-rich website built with **React 19**, **Tailwind CSS v4**, and **GSAP**. This project leverages advanced animation techniques such as **parallax effects, clip-path transitions**, and **ScrollTrigger + ScrollSmoother controls** to deliver a smooth user experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔗 **Live Demo**: [https://power-drinks-website.vercel.app](https://power-drinks-website.vercel.app)
 
-Currently, two official plugins are available:
+<br/>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ⚙️ Technologies Used
+- **React 19** – Modern, component-based UI framework
 
-## Expanding the ESLint configuration
+- **Tailwind CSS v4** – Utility-first CSS for rapid styling
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **GSAP** (GreenSock Animation Platform) – High-performance animations
+
+- **GSAP ScrollTrigger & ScrollSmoother** – Advanced scroll control and smoothing
+
+- **GSAP Parallax** – Layered parallax animations
+
+- **CSS Clip-Path** – Custom animated shapes and transitions
+
+- **Vite**
+
+
+## 🚀 Features
+- ⚡ Smooth, scroll-based animations (ScrollTrigger & ScrollSmoother)
+
+- 🌀 Dynamic parallax effects
+
+- ✂️ Creative transitions using clip-path
+
+- 💻 Responsive and mobile-first design
+
+- 🔧 Scalable project structure for future development
