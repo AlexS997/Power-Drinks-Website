@@ -1,6 +1,7 @@
 import { useGSAP } from "@gsap/react"
 import ClipTitle from "../components/ClipTitle"
 import gsap from "gsap"
+import VideoSection from "../components/VideoSection"
 
 const AdvantagesSection = () => {
   
@@ -42,7 +43,7 @@ const AdvantagesSection = () => {
         <section className='benefit-section'>
             <div className='container mx-auto pt-20'>
                 <div className='col-center'>
-                    <p>Unlock the Advantages: <br />Explore the Key Benefits of Choosing SPYLT</p>
+                    <p>Unlock the Power: <br />Explore the Key Benefits of Choosing SPYLT</p>
                 
                     <div className='mt-20 col-center'>
                         <ClipTitle title={"Shelf Stable"} 
@@ -74,6 +75,10 @@ const AdvantagesSection = () => {
                         <p>And much more ...</p>
                     </div>
                 </div>
+            </div>
+
+            <div className="relative overlay-box">
+                <VideoSection />
             </div>
         </section>
     )
