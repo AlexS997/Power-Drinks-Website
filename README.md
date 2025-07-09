@@ -31,3 +31,7 @@ A modern, responsive, and animation-rich website built with **React 19**, **Tail
 - 💻 Responsive and mobile-first design
 
 - 🔧 Scalable project structure for future development
+
+
+## ⭐ Support
+If you like this project or found it useful, please consider leaving a ⭐ star on the GitHub repository. It helps me a lot and motivates me to keep building cool stuff!
